@@ -1,2 +1,2 @@
-# Teddytech1
-my first webpage
+# Teddytech
+ my first webpage
